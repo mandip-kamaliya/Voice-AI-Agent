@@ -16,6 +16,8 @@ Phone Call → Twilio → Gather (Speech Recognition) → Flask Server
                                             Twilio → Phone
 ```
 
+## Loom Video : https://www.loom.com/share/c9b43c84d7b8438c92f944d127bfa296
+
 ## Tech Stack
 
 - **Telephony**: Twilio Voice (Gather/Say for speech recognition and text-to-speech)
@@ -143,6 +145,4 @@ Test escalation:
 1. "What's the status of order #12345?" → Should offer to connect to human
 2. "I want to speak to a manager" → Should offer to connect to human
 
-## Demo Recording
 
-See `DEMO_SCRIPT.md` for a detailed script for recording the demo video.
